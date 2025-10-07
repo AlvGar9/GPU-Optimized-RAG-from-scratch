@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-  <img src="image_1a8d89.png" alt="Project Folder Structure" width="350"/>
+  <img src="assets/Autoscaler_Flow_Diag.png" width="350"/>
 </div>
 
 ## 1. Project Overview
